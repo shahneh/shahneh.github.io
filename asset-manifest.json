@@ -1,13 +1,13 @@
 {
-  "main.css": "/static/css/main.fc254b12.chunk.css",
-  "main.js": "/static/js/main.225beb45.chunk.js",
-  "main.js.map": "/static/js/main.225beb45.chunk.js.map",
+  "main.css": "/static/css/main.1f633617.chunk.css",
+  "main.js": "/static/js/main.8c0e729e.chunk.js",
+  "main.js.map": "/static/js/main.8c0e729e.chunk.js.map",
   "static/js/1.240c7a30.chunk.js": "/static/js/1.240c7a30.chunk.js",
   "static/js/1.240c7a30.chunk.js.map": "/static/js/1.240c7a30.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/android2.jpg": "/static/media/android2.bae846b0.jpg",
-  "static/media/mohammadreza.jpg": "/static/media/mohammadreza.583d51ce.jpg",
+  "static/media/mohammadreza.jpg": "/static/media/mohammadreza.07078cca.jpg",
   "static/media/vision.jpg": "/static/media/vision.c55d98ac.jpg",
   "static/media/chess.png": "/static/media/chess.4ad822e9.png",
   "static/media/calc.png": "/static/media/calc.a9eac15f.png",
@@ -30,8 +30,8 @@
   "static/media/painting2.jpg": "/static/media/painting2.f4521108.jpg",
   "static/media/painting3.jpg": "/static/media/painting3.ba359275.jpg",
   "static/media/painting4.jpg": "/static/media/painting4.38b720c5.jpg",
-  "static/css/main.fc254b12.chunk.css.map": "/static/css/main.fc254b12.chunk.css.map",
+  "static/css/main.1f633617.chunk.css.map": "/static/css/main.1f633617.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.0fb3c5d87efdf493e0b08e1d254de9f8.js": "/precache-manifest.0fb3c5d87efdf493e0b08e1d254de9f8.js",
+  "precache-manifest.1e4ea990c7761bd3b5aad03f0e29d4c1.js": "/precache-manifest.1e4ea990c7761bd3b5aad03f0e29d4c1.js",
   "service-worker.js": "/service-worker.js"
 }
